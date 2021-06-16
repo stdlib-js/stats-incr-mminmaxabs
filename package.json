@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-mminmaxabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compute moving minimum and maximum absolute values incrementally.",
   "license": "Apache-2.0",
   "author": {
