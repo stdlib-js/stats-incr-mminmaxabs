@@ -20,7 +20,7 @@ limitations under the License.
 
 # incrmminmaxabs
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute moving minimum and maximum absolute values incrementally.
 
@@ -141,12 +141,12 @@ console.log( accumulator() );
 
 ## See Also
 
--   [`@stdlib/stats/incr/minmaxabs`][@stdlib/stats/incr/minmaxabs]: compute minimum and maximum absolute values incrementally.
--   [`@stdlib/stats/incr/mmax`][@stdlib/stats/incr/mmax]: compute a moving maximum incrementally.
--   [`@stdlib/stats/incr/mmaxabs`][@stdlib/stats/incr/mmaxabs]: compute a moving maximum absolute value incrementally.
--   [`@stdlib/stats/incr/mmin`][@stdlib/stats/incr/mmin]: compute a moving minimum incrementally.
--   [`@stdlib/stats/incr/mminabs`][@stdlib/stats/incr/mminabs]: compute a moving minimum absolute value incrementally.
--   [`@stdlib/stats/incr/mminmax`][@stdlib/stats/incr/mminmax]: compute a moving minimum and maximum incrementally.
+-   <span class="package-name">[`@stdlib/stats/incr/minmaxabs`][@stdlib/stats/incr/minmaxabs]</span><span class="delimiter">: </span><span class="description">compute minimum and maximum absolute values incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/mmax`][@stdlib/stats/incr/mmax]</span><span class="delimiter">: </span><span class="description">compute a moving maximum incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/mmaxabs`][@stdlib/stats/incr/mmaxabs]</span><span class="delimiter">: </span><span class="description">compute a moving maximum absolute value incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/mmin`][@stdlib/stats/incr/mmin]</span><span class="delimiter">: </span><span class="description">compute a moving minimum incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/mminabs`][@stdlib/stats/incr/mminabs]</span><span class="delimiter">: </span><span class="description">compute a moving minimum absolute value incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/mminmax`][@stdlib/stats/incr/mminmax]</span><span class="delimiter">: </span><span class="description">compute a moving minimum and maximum incrementally.</span>
 
 </section>
 
@@ -197,8 +197,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-incr-mminmaxabs/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-incr-mminmaxabs?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-incr-mminmaxabs.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-incr-mminmaxabs/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
