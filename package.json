@@ -41,6 +41,7 @@
     "@stdlib/assert-is-positive-integer": "^0.0.x",
     "@stdlib/math-base-special-abs": "^0.0.x",
     "@stdlib/stats-incr-mminmax": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/types": "^0.0.x"
   },
   "devDependencies": {
